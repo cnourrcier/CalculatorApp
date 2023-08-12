@@ -1,1 +1,1 @@
-This is a Python project that will make basic mathematical calculations: addition, subtraction, multiplication, and division.  
+This is a Python project that makes basic mathematical calculations: addition, subtraction, multiplication, and division.
