@@ -47,9 +47,7 @@ Follow these steps to get started with the **Calculator** program:
 4. Run the program by entering the following command:
 
    <pre>
-   ```
    python calculator.py
-   ```
    </pre>
 
 ## Contributing
